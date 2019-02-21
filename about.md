@@ -24,7 +24,7 @@ I am passionate about translating human genes and biology into disease-modifying
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Distinct Immune Cell Populations Define Response to Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
+	<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
 	<li><a href="http://israp.sourceforge.net/">iSRAP</a></li>
 	<li><a href="http://www.funrich.org/">FunRich</a></li>
 </ul>
