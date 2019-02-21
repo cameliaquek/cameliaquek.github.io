@@ -4,43 +4,27 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Being a scientist with integrated skills in Molecular Biology (2011 UNSW University Medal) and Bioinformatics (2017 UNIMELB
+Sawyer Medal), my work has bridged wet-lab biology and dry-lab bioinformatics, making notable contributions to the new class of drug targets and biomarkers that enable researchers and Key Opinion Leaders worldwide to undertake similar studies and clinical trials.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+I am passionate about translating human genes and biology into disease-modifying therapies and drug treatments. Analytics and big data infographics are my forte. My goal is to reshape the molecular determinants of response, resistance, toxicity and survival in order to improve outcomes in patients diagnosed with cancer and chronic diseases.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>R</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Shell scripting</li>
+	<li>HTML/CSS</li>
+	<li>Next-generation sequencing library design (Illumina, 454 and Ion Torrent)</li>
+	<li>Biochemistry, proteomic, genetic, cell and molecular biology techniques</li>
+	<li>Bioinformatics analysis (DNA-/RNA-seq data, epitope prediction, network/pathway, phylogenetic and virus evolution</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Distinct Immune Cell Populations Define Response to Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
+	<li><a href="http://israp.sourceforge.net/">iSRAP</a></li>
+	<li><a href="http://www.funrich.org/">FunRich</a></li>
 </ul>
