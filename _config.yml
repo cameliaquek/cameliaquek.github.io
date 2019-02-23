@@ -1,6 +1,6 @@
 # main text of home
 name: Camelia Quek
-bio: Biomarker specialist, Data Scientist, Modern Mom
+bio: Biomarker specialist, Molecular Data Scientist
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -35,14 +35,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: /classycammy
+twitter: classycammy
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: /classycammy
+github: classycammy
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
