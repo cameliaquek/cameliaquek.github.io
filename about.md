@@ -4,8 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Being a scientist with integrated skills in Molecular Biology (2011 UNSW University Medal) and Bioinformatics (2017 UNIMELB
-Sawyer Medal), my work has bridged wet-lab biology and dry-lab bioinformatics, making notable contributions to the new class of drug targets and biomarkers that enable researchers and Key Opinion Leaders worldwide to undertake similar studies and clinical trials.
+<p>I originally did a first degree (University Medal) in molecular biology at the University of New South Wales before moving on to do a PhD (Sawyer Medal) in Bioinformatics at the University of Melbourne. My work has bridged wet-lab biology and dry-lab bioinformatics, making notable contributions to the new class of drug targets and biomarkers that enable researchers and Key Opinion Leaders worldwide to undertake similar studies and clinical trials.
 <br>
 I am passionate about translating human genes and biology into disease-modifying therapies and drug treatments. Analytics and big data infographics are my forte. My goal is to reshape the molecular determinants of response, resistance, toxicity and survival in order to improve outcomes in patients diagnosed with cancer and chronic diseases.</p>
 
