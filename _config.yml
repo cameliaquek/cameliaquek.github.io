@@ -1,6 +1,6 @@
 # main text of home
-name: Camelia Quek
-bio: Biomarker specialist, Molecular Data Scientist
+name: Dr Camelia Quek
+bio: I am a Cancer Institute NSW Research Fellow and a Senior Scientist at Melanoma Institute Australia, The University of Sydney. I lead a translational bioinformatics research program focusing on making discoveries that enable innovative treatment strategies and biomarkers ensuring the prolonged survival of patients with terminal diseases including cancer. I have extensive experience in integrating cutting-edge technologies and sophisticated computational methods to understand therapeutic resistance and responses that resulted in several key publications (e.g. Cell and Nature Publishing Group Journals) in discovering the molecular determinants of response and resistance in targeted and immune-based therapies.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/Camelia_2018.jpg
+picture: assets/images/Cam_profile_2022.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
