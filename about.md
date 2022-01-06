@@ -17,13 +17,14 @@ I am passionate about translating human genes and biology into disease-modifying
 	<li>HTML/CSS</li>
 	<li>Next-generation sequencing library design (Illumina, 454 and Ion Torrent)</li>
 	<li>Biochemistry, proteomic, genetic, cell and molecular biology techniques</li>
-	<li>Bioinformatics analysis (DNA-/RNA-seq data, epitope prediction, network/pathway, phylogenetic and virus evolution</li>
+	<li>Bioinformatics analysis (DNA-/RNA-seq, single-cell (scRNAseq, CITEseq, TCRseq, CyTOF), spatial (CODEX), epitope prediction, network/pathway, phylogenetic and virus evolution)</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
+		<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
+	<li><a href="https://www.mdpi.com/2073-4425/12/10/1629">High-Dimensional Single-Cell Transcriptomics in Melanoma and Cancer Immunotherapy</a></li>
 	<li><a href="http://israp.sourceforge.net/">iSRAP</a></li>
 	<li><a href="http://www.funrich.org/">FunRich</a></li>
 </ul>
