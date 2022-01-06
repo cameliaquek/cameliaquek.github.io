@@ -15,7 +15,7 @@ I am passionate about translating human genes and biology into disease-modifying
 	<li>Python</li>
 	<li>Shell scripting</li>
 	<li>HTML/CSS</li>
-	<li>Next-generation sequencing library design (Illumina, 454 and Ion Torrent)</li>
+	<li>Next-generation sequencing library design (10x Genomics, Illumina, 454 and Ion Torrent)</li>
 	<li>Biochemistry, proteomic, genetic, cell and molecular biology techniques</li>
 	<li>Bioinformatics analysis (DNA-/RNA-seq, single-cell (scRNAseq, CITEseq, TCRseq, CyTOF), spatial (CODEX), epitope prediction, network/pathway, phylogenetic and virus evolution)</li>
 </ul>
