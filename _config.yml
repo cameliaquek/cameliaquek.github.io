@@ -1,6 +1,6 @@
 # main text of home
 name: Dr Camelia Quek
-bio: I am a Cancer Institute NSW Research Fellow and a Senior Scientist at Melanoma Institute Australia, The University of Sydney. I lead a translational bioinformatics research program focusing on making discoveries that enable innovative treatment strategies and biomarkers ensuring the prolonged survival of patients with terminal diseases including cancer. I have extensive experience in integrating cutting-edge technologies and sophisticated computational methods to understand therapeutic resistance and responses that resulted in several key publications (e.g. Cell and Nature Publishing Group Journals) in discovering the molecular determinants of response and resistance in targeted and immune-based therapies.
+bio: I am a CINSW Research Fellow and a Senior Scientist at Melanoma Institute Australia and The University of Sydney. I lead a translational bioinformatics research program focusing on making discoveries that enable innovative treatment strategies and biomarkers ensuring the prolonged survival of patients with advanced and rare diseases including cancer. I have extensive experience in integrating cutting-edge sequencing technologies and sophisticated computational methods to understand therapeutic resistance and responses that resulted in several key publications (e.g. Cell and Nature Publishing Group Journals) in discovering the molecular determinants of response and resistance in targeted and immune-based therapies.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -35,14 +35,14 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-twitter: classycammy
+twitter: CameliaQuek
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 linkedin: cameliaquek
 # youtube: myyoutube
 # spotify: myspotify
-github: classycammy
+github: cameliaquek
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -51,7 +51,7 @@ github: classycammy
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: camelia.quek@melanoma.org.au
+email: camelia.quek@sydney.edu.au
 
 authors:
     johndoe:
