@@ -12,8 +12,9 @@ picture: assets/images/Cam_profile_2022.JPG
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
+resume: assets/cameliaquek_cv2022_Jan-pub.pdf
 resume-external: false
-resume-url: assets/cameliaquek_cv2022_Jan-pub.pdf
+#resume-url: assets/cameliaquek_cv2022_Jan-pub.pdf
 #resume-url: https://google.com/?q=my+resume
 
 url: https://cameliaquek.github.io
