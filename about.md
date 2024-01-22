@@ -23,8 +23,7 @@ I am passionate about translating human genes and biology into disease-modifying
 <h2>Projects</h2>
 
 <ul>
-<h1>Cancer</h1>
-	
+<b>Cancer:</b>	
 		<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
 	<li><a href="https://www.mdpi.com/2073-4425/12/10/1629">High-Dimensional Single-Cell Transcriptomics in Melanoma and Cancer Immunotherapy</a></li>
 		<li><a href="https://www.nature.com/articles/s42003-021-01868-x">Distribution of microRNA profiles in pre-clinical and clinical forms of murine and human prion disease</a></li>
