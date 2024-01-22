@@ -99,16 +99,16 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+#animation: true
 
-plugins:
+#plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-admin
 
-jekyll-mentions:
+#jekyll-mentions:
     base_url: https://github.com
 
 compress_html:
