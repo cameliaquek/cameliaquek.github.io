@@ -109,7 +109,7 @@ show-author: true
   - jekyll-admin
 
 #jekyll-mentions:
-    base_url: https://github.com
+#    base_url: https://github.com
 
 compress_html:
     ignore:
@@ -119,4 +119,4 @@ compress_html:
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
 
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
