@@ -99,7 +99,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-#animation: true
+animation: true
 
 plugins:
   - jekyll-seo-tag
@@ -119,4 +119,4 @@ compress_html:
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
 
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
