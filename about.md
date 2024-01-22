@@ -31,8 +31,7 @@ I am passionate about translating human genes and biology into disease-modifying
  	<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
 	<li><a href="https://www.mdpi.com/2073-4425/12/10/1629">High-Dimensional Single-Cell Transcriptomics in Melanoma and Cancer Immunotherapy</a></li>
  	<li><a href="https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04092-9">Cross-platform comparison of immune signatures in immunotherapy-treated patients with advanced melanoma using a rank-based scoring approach</a></li>
-  
-
+ <p></p> 
 <b>Neurodegenerative diseases:</b>	
 	<li><a href="https://www.nature.com/articles/s42003-021-01868-x">Distribution of microRNA profiles in pre-clinical and clinical forms of murine and human prion disease</a></li>
 
