@@ -29,6 +29,7 @@ layout: page
 <ul>
 
 <b>Cancer:</b>
+<p>My current research interests are: (1) Biomarkers of response and resistance to cancer therapies, (2) Single-cell multi-omics to understand treatment and progression, (3) Spatial imaging to dissect tumour microenvironment and key cellular interactions, and (4) novel drug discovery.</p>
    	<li><a href="https://aacrjournals.org/clincancerres/article/29/13/2513/727344/Intratumoral-CD16-Macrophages-Are-Associated-with">Intratumoral CD16+ macrophages are associated with clinical outcomes of patients with metastatic melanoma treated with combination anti-PD-1 and anti-CTLA-4 therapy</a></li>
 	<li><a href="https://jitc.bmj.com/content/11/10/e007144.info">Classification of the tumour immune microenvironment and associations with outcomes in patients with metastatic melanoma treated with immunotherapies</a></li>	
    	<li><a href="https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-023-04092-9">Cross-platform comparison of immune signatures in immunotherapy-treated patients with advanced melanoma using a rank-based scoring approach</a></li>
@@ -49,7 +50,6 @@ layout: page
     	<li><a href="https://aacrjournals.org/clincancerres/article/25/4/1272/10155/Distinct-Molecular-Profiles-and-Immunotherapy">Distinct Molecular Profiles and Immunotherapy Treatment Outcomes of V600E and V600K BRAF-Mutant Melanoma</a></li>
      	<li><a href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2018.00584/full">The Prognostic Significance of Low-Frequency Somatic Mutations in Metastatic Cutaneous Melanoma</a></li>
       	<li><a href="https://aacrjournals.org/clincancerres/article/24/13/3036/80949/CD103-Tumor-Resident-CD8-T-Cells-Are-Associated">CD103+ Tumor-Resident CD8+ T Cells Are Associated with Improved Survival in Immunotherapy-Naïve Melanoma Patients and Expand Significantly During Anti–PD-1 Treatment</a></li>
-
 <br><br>
 
 <b>Neurodegenerative diseases:</b>
@@ -60,24 +60,26 @@ with computational biology in identifying driver genes and the RNA content of sm
   	<li><a href="https://www.sciencedirect.com/science/article/pii/S0006291X16315571?via%3Dihub">The role of extracellular vesicles in neurodegenerative diseases</a></li>
     	<li><a href="https://www.nature.com/articles/srep22398">Gene dysregulation is restored in the Parkinson’s disease MPTP neurotoxic mice model upon treatment of the therapeutic drug CuII(atsm)</a></li>
       	<li><a href="https://www.frontiersin.org/articles/10.3389/fgene.2013.00150/full">The detection of microRNA associated with Alzheimer's disease in biological fluids using next-generation sequencing technologies</a></li>
-
 <br><br>
+
 <b>Immunology:</b>
+<p>As part of a work collaboration, I have contributed the data analytics and my knowledge of Immunology (from Onco-immunology, Neuro-immunology and Infectious diseases).</p>
 	<li><a href="https://www.mdpi.com/1422-0067/24/11/9334">Non-Antigenic Modulation of Antigen Receptor (TCR) Loop Modulates Signalling: Implications of External Factors Influencing T-Cell Responses</a></li>
 <br><br>
 
 <b>Virology:</b>
+<p>My early research including Honours focuses on virology. I lead the statistical or computational biology component of the work.</p>
 	<li><a href="https://www.mdpi.com/2075-4418/13/8/1364)">Multiplex RT Real-Time PCR Based on Target Failure to Detect and Identify Different Variants of SARS-CoV-2: A Feasible Method That Can Be Applied in Clinical Laboratories.</a></li>
  	<li><a href="https://www.mdpi.com/2075-4418/12/10/2393">Characteristics of Hepatitis B Virus Genotype and Sub-Genotype in Hepatocellular Cancer Patients in Vietnam</a></li>
  	<li><a href="https://www.sciencedirect.com/science/article/pii/S1525157817302969?via%3Dihub">Evaluation of a Hepatitis C Virus Core Antigen Assay in Plasma and Dried Blood Spot Samples</a></li>
-
 <br><br>
+
  <b>Software and analysis tools:</b>
  <p>I developed or contributed to software and analysis tools as part of my work.</p>
 	<li><a href="http://israp.sourceforge.net/">iSRAP</a></li>
 	<li><a href="http://www.funrich.org/">FunRich</a></li>
-
 <br><br>
+
   <b>Large datasets:</b>
   <p>I manage or contribute to large or big datasets that received high international impact from data sharing of high-value pre-clinical or clinical trial samples.</p> 
  	<li><a href="https://ega-archive.org/studies/EGAS00001006977">EGAS00001006977: NanoString nCounter® PanCancer IO 360™on anti-PD1/anti-PD1+CTLA4 in patients with metastatic melanoma
