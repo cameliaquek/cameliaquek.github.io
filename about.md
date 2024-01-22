@@ -11,9 +11,10 @@ I am passionate about translating human genes and biology into disease-modifying
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>R</li>
-	<li>Python</li>
-	<li>Shell scripting</li>
+	<li>Project management</li>
+	<li>Problem solving</li>
+	<li>Stakeholders and communications</li>
+	<li>Programming such as R, Python, Shell scripting</li>
 	<li>HTML/CSS</li>
 	<li>Next-generation sequencing library design (10x Genomics, Illumina, 454 and Ion Torrent)</li>
 	<li>Immunohistochemistry</li>
