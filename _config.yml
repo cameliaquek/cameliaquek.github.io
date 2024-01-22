@@ -101,7 +101,7 @@ show-author: true
 # do you want some animations?
 #animation: true
 
-#plugins:
+plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
@@ -109,7 +109,7 @@ show-author: true
   - jekyll-admin
 
 #jekyll-mentions:
-#    base_url: https://github.com
+    base_url: https://github.com
 
 compress_html:
     ignore:
