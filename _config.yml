@@ -108,7 +108,7 @@ plugins:
   - jemoji
   - jekyll-admin
 
-#jekyll-mentions:
+jekyll-mentions:
     base_url: https://github.com
 
 compress_html:
