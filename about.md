@@ -23,10 +23,28 @@ I am passionate about translating human genes and biology into disease-modifying
 <h2>Projects</h2>
 
 <ul>
-<b>Cancer:</b>	
-		<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
+
+	<b>Cancer:</b>	
+	<li><a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(19)30037-6">Anti-PD-1 Monotherapy and Anti-PD-1/Anti-CTLA-4 Combined Therapy</a></li>
 	<li><a href="https://www.mdpi.com/2073-4425/12/10/1629">High-Dimensional Single-Cell Transcriptomics in Melanoma and Cancer Immunotherapy</a></li>
-		<li><a href="https://www.nature.com/articles/s42003-021-01868-x">Distribution of microRNA profiles in pre-clinical and clinical forms of murine and human prion disease</a></li>
+
+	<b>Neurodegenerative diseases:</b>	
+	<li><a href="https://www.nature.com/articles/s42003-021-01868-x">Distribution of microRNA profiles in pre-clinical and clinical forms of murine and human prion disease</a></li>
+
+	<b>Immunology:</b>
+	<li><a href="https://www.mdpi.com/1422-0067/24/11/9334">Non-Antigenic Modulation of Antigen Receptor (TCR) Loop Modulates Signalling: Implications of External Factors Influencing T-Cell Responses</a></li>
+
+	<b>Virology:</b>
+	<li><a href="https://www.mdpi.com/2075-4418/13/8/1364)">Multiplex RT Real-Time PCR Based on Target Failure to Detect and Identify Different Variants of SARS-CoV-2: A Feasible Method That Can Be Applied in Clinical Laboratories.</a></li>
+
+ 	<b>Software and analysis tools:</b>
 	<li><a href="http://israp.sourceforge.net/">iSRAP</a></li>
 	<li><a href="http://www.funrich.org/">FunRich</a></li>
+
+  	<b>Large datasets:</b>
+	<li><a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB45779">Clinical and Molecular Heterogeneity in Patients with Innate Resistance to Anti-PD-1 +/− Anti-CTLA-4![image](https://github.com/cameliaquek/cameliaquek.github.io/assets/47705215/2f1ea464-5f3d-4e32-a27c-5c78cba38d20)
+</a></li>
+	<li><a href="https://www.ebi.ac.uk/ena/browser/view/PRJEB23709">Biomarkers of response and resistance to checkpoint![image](https://github.com/cameliaquek/cameliaquek.github.io/assets/47705215/642dc824-4251-425e-8552-1fe28906d774)
+ blockade immunotherapy in metastatic melanoma![image](https://github.com/cameliaquek/cameliaquek.github.io/assets/47705215/493c44bb-d70b-42c5-9ada-c0ee61f6b10d)
+</a></li>
 </ul>
